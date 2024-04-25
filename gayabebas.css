@@ -1,0 +1,11 @@
+.main_container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.main_container .container h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
